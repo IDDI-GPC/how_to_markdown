@@ -6,5 +6,5 @@ Markdown files (.md) can be read and modified with any text editor. [Visual Code
 
 The `docs` folder contains:
 
-+ **Markdown cheat sheets**: learn Markdown syntax basics
-+ **Mkdocs basics**: learn how to generate a static webpage and push it to a GitHub webpage
++ **Markdown cheat sheets**: learn the basics of Markdown syntax
++ **Mkdocs basics**: learn how to generate a static site and push it to a GitHub webpage
